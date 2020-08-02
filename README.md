@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 # Howdy!
 
-I am a Full Stack Developer and Competitive Programmer. I have cleared the so called toughest exam in India, Jee Advanced.
+### I am a Full Stack Developer and Competitive Programmer. I am currently a final year student at IIT Roorkee.
