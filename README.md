@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **skumar606/skumar606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Howdy!
+
+I am a Full Stack Developer and Competitive Programmer. I have cleared the so called toughest exam in India, Jee Advanced.
