@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Howdy!
 
-### I am a Full Stack Developer and Competitive Programmer. I am currently a final year student at IIT Roorkee.
+- I am currently pursuing Bachelor of Technology in Civil Engineering from Indian Institute of Technology, Roorkee.
+
+- I possess expertise in data structures and algorithms.
